@@ -1,0 +1,75 @@
+{
+    "description": "A dataset for predicting income levels based on census demographic information, frequently used for binary classification tasks in social sciences.",
+    "variables": [
+        {
+            "variable_name": "age",
+            "variable_type": "numerical",
+            "meaning": "The column 'age' contains data of type numerical. It represents the age of the observation."
+        },
+        {
+            "variable_name": "workclass",
+            "variable_type": "categorical",
+            "meaning": "The column 'workclass' contains data of type categorical. It represents the workclass of the observation."
+        },
+        {
+            "variable_name": "fnlwgt",
+            "variable_type": "numerical",
+            "meaning": "The column 'fnlwgt' contains data of type numerical. It represents the fnlwgt of the observation."
+        },
+        {
+            "variable_name": "education",
+            "variable_type": "categorical",
+            "meaning": "The column 'education' contains data of type categorical. It represents the education of the observation."
+        },
+        {
+            "variable_name": "marital-status",
+            "variable_type": "categorical",
+            "meaning": "The column 'marital-status' contains data of type categorical. It represents the marital-status of the observation."
+        },
+        {
+            "variable_name": "occupation",
+            "variable_type": "categorical",
+            "meaning": "The column 'occupation' contains data of type categorical. It represents the occupation of the observation."
+        },
+        {
+            "variable_name": "relationship",
+            "variable_type": "categorical",
+            "meaning": "The column 'relationship' contains data of type categorical. It represents the relationship of the observation."
+        },
+        {
+            "variable_name": "race",
+            "variable_type": "categorical",
+            "meaning": "The column 'race' contains data of type categorical. It represents the race of the observation."
+        },
+        {
+            "variable_name": "gender",
+            "variable_type": "categorical",
+            "meaning": "The column 'gender' contains data of type categorical. It represents the gender of the observation."
+        },
+        {
+            "variable_name": "capital-gain",
+            "variable_type": "numerical",
+            "meaning": "The column 'capital-gain' contains data of type numerical. It represents the capital-gain of the observation."
+        },
+        {
+            "variable_name": "capital-loss",
+            "variable_type": "numerical",
+            "meaning": "The column 'capital-loss' contains data of type numerical. It represents the capital-loss of the observation."
+        },
+        {
+            "variable_name": "hours-per-week",
+            "variable_type": "numerical",
+            "meaning": "The column 'hours-per-week' contains data of type numerical. It represents the hours-per-week of the observation."
+        },
+        {
+            "variable_name": "native-country",
+            "variable_type": "categorical",
+            "meaning": "The column 'native-country' contains data of type categorical. It represents the native-country of the observation."
+        },
+        {
+            "variable_name": "income",
+            "variable_type": "categorical",
+            "meaning": "The column 'income' contains data of type categorical. It represents the income of the observation."
+        }
+    ]
+}

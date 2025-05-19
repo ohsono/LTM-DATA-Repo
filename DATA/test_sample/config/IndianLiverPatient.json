@@ -1,0 +1,60 @@
+{
+    "description": "A dataset to classify patients as liver disease-positive or negative based on biochemical test results, relevant in medical diagnostics.",
+    "variables": [
+        {
+            "variable_name": "Age",
+            "variable_type": "numerical",
+            "meaning": "The column 'Age' contains data of type numerical. It represents the Age of the observation."
+        },
+        {
+            "variable_name": "Gender",
+            "variable_type": "categorical",
+            "meaning": "The column 'Gender' contains data of type categorical. It represents the Gender of the observation."
+        },
+        {
+            "variable_name": "Total_Bilirubin",
+            "variable_type": "numerical",
+            "meaning": "The column 'Total_Bilirubin' contains data of type numerical. It represents the Total_Bilirubin of the observation."
+        },
+        {
+            "variable_name": "Direct_Bilirubin",
+            "variable_type": "numerical",
+            "meaning": "The column 'Direct_Bilirubin' contains data of type numerical. It represents the Direct_Bilirubin of the observation."
+        },
+        {
+            "variable_name": "Alkaline_Phosphotase",
+            "variable_type": "numerical",
+            "meaning": "The column 'Alkaline_Phosphotase' contains data of type numerical. It represents the Alkaline_Phosphotase of the observation."
+        },
+        {
+            "variable_name": "Alamine_Aminotransferase",
+            "variable_type": "numerical",
+            "meaning": "The column 'Alamine_Aminotransferase' contains data of type numerical. It represents the Alamine_Aminotransferase of the observation."
+        },
+        {
+            "variable_name": "Aspartate_Aminotransferase",
+            "variable_type": "numerical",
+            "meaning": "The column 'Aspartate_Aminotransferase' contains data of type numerical. It represents the Aspartate_Aminotransferase of the observation."
+        },
+        {
+            "variable_name": "Total_Protiens",
+            "variable_type": "numerical",
+            "meaning": "The column 'Total_Protiens' contains data of type numerical. It represents the Total_Protiens of the observation."
+        },
+        {
+            "variable_name": "Albumin",
+            "variable_type": "numerical",
+            "meaning": "The column 'Albumin' contains data of type numerical. It represents the Albumin of the observation."
+        },
+        {
+            "variable_name": "Albumin_and_Globulin_Ratio",
+            "variable_type": "numerical",
+            "meaning": "The column 'Albumin_and_Globulin_Ratio' contains data of type numerical. It represents the Albumin_and_Globulin_Ratio of the observation."
+        },
+        {
+            "variable_name": "Dataset",
+            "variable_type": "categorical",
+            "meaning": "The column 'Dataset' contains data of type categorical. It represents the Dataset of the observation."
+        }
+    ]
+}

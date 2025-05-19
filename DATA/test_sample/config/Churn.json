@@ -1,0 +1,60 @@
+{
+    "description": "A dataset for predicting customer churn in telecom or subscription-based services, widely applied in business analytics.",
+    "variables": [
+        {
+            "variable_name": "CreditScore",
+            "variable_type": "numerical",
+            "meaning": "The column 'CreditScore' contains data of type numerical. It represents the CreditScore of the observation."
+        },
+        {
+            "variable_name": "Geography",
+            "variable_type": "categorical",
+            "meaning": "The column 'Geography' contains data of type categorical. It represents the Geography of the observation."
+        },
+        {
+            "variable_name": "Gender",
+            "variable_type": "categorical",
+            "meaning": "The column 'Gender' contains data of type categorical. It represents the Gender of the observation."
+        },
+        {
+            "variable_name": "Age",
+            "variable_type": "numerical",
+            "meaning": "The column 'Age' contains data of type numerical. It represents the Age of the observation."
+        },
+        {
+            "variable_name": "Tenure",
+            "variable_type": "numerical",
+            "meaning": "The column 'Tenure' contains data of type numerical. It represents the Tenure of the observation."
+        },
+        {
+            "variable_name": "Balance",
+            "variable_type": "numerical",
+            "meaning": "The column 'Balance' contains data of type numerical. It represents the Balance of the observation."
+        },
+        {
+            "variable_name": "NumOfProducts",
+            "variable_type": "numerical",
+            "meaning": "The column 'NumOfProducts' contains data of type numerical. It represents the NumOfProducts of the observation."
+        },
+        {
+            "variable_name": "HasCrCard",
+            "variable_type": "numerical",
+            "meaning": "The column 'HasCrCard' contains data of type numerical. It represents the HasCrCard of the observation."
+        },
+        {
+            "variable_name": "IsActiveMember",
+            "variable_type": "numerical",
+            "meaning": "The column 'IsActiveMember' contains data of type numerical. It represents the IsActiveMember of the observation."
+        },
+        {
+            "variable_name": "EstimatedSalary",
+            "variable_type": "numerical",
+            "meaning": "The column 'EstimatedSalary' contains data of type numerical. It represents the EstimatedSalary of the observation."
+        },
+        {
+            "variable_name": "Exited",
+            "variable_type": "categorical",
+            "meaning": "The column 'Exited' contains data of type categorical. It represents the Exited of the observation."
+        }
+    ]
+}

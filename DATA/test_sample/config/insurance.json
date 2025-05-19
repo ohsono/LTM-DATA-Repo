@@ -1,0 +1,40 @@
+{
+    "description": "A dataset for predicting insurance charges based on personal and demographic factors, relevant in actuarial and financial industries.",
+    "variables": [
+        {
+            "variable_name": "age",
+            "variable_type": "numerical",
+            "meaning": "The column 'age' contains data of type numerical. It represents the age of the observation."
+        },
+        {
+            "variable_name": "sex",
+            "variable_type": "categorical",
+            "meaning": "The column 'sex' contains data of type categorical. It represents the sex of the observation."
+        },
+        {
+            "variable_name": "bmi",
+            "variable_type": "numerical",
+            "meaning": "The column 'bmi' contains data of type numerical. It represents the bmi of the observation."
+        },
+        {
+            "variable_name": "children",
+            "variable_type": "numerical",
+            "meaning": "The column 'children' contains data of type numerical. It represents the children of the observation."
+        },
+        {
+            "variable_name": "smoker",
+            "variable_type": "categorical",
+            "meaning": "The column 'smoker' contains data of type categorical. It represents the smoker of the observation."
+        },
+        {
+            "variable_name": "region",
+            "variable_type": "categorical",
+            "meaning": "The column 'region' contains data of type categorical. It represents the region of the observation."
+        },
+        {
+            "variable_name": "charges",
+            "variable_type": "numerical",
+            "meaning": "The column 'charges' contains data of type numerical. It represents the charges of the observation."
+        }
+    ]
+}

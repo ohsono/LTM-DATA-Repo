@@ -1,0 +1,50 @@
+{
+    "description": "A dataset for decision-making in nursery school admissions based on parental and economic factors, applied in education and social services.",
+    "variables": [
+        {
+            "variable_name": "parents",
+            "variable_type": "categorical",
+            "meaning": "The column 'parents' contains data of type categorical. It represents the parents of the observation."
+        },
+        {
+            "variable_name": "has_nurs",
+            "variable_type": "categorical",
+            "meaning": "The column 'has_nurs' contains data of type categorical. It represents the has_nurs of the observation."
+        },
+        {
+            "variable_name": "form",
+            "variable_type": "categorical",
+            "meaning": "The column 'form' contains data of type categorical. It represents the form of the observation."
+        },
+        {
+            "variable_name": "children",
+            "variable_type": "categorical",
+            "meaning": "The column 'children' contains data of type categorical. It represents the children of the observation."
+        },
+        {
+            "variable_name": "housing",
+            "variable_type": "categorical",
+            "meaning": "The column 'housing' contains data of type categorical. It represents the housing of the observation."
+        },
+        {
+            "variable_name": "finance",
+            "variable_type": "categorical",
+            "meaning": "The column 'finance' contains data of type categorical. It represents the finance of the observation."
+        },
+        {
+            "variable_name": "social",
+            "variable_type": "categorical",
+            "meaning": "The column 'social' contains data of type categorical. It represents the social of the observation."
+        },
+        {
+            "variable_name": "health",
+            "variable_type": "categorical",
+            "meaning": "The column 'health' contains data of type categorical. It represents the health of the observation."
+        },
+        {
+            "variable_name": "final evaluation",
+            "variable_type": "categorical",
+            "meaning": "The column 'final evaluation' contains data of type categorical. It represents the final evaluation of the observation."
+        }
+    ]
+}

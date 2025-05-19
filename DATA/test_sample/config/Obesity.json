@@ -1,0 +1,90 @@
+{
+    "description": "A dataset for predicting obesity levels based on lifestyle and physical measurements, useful in healthcare and public health studies.",
+    "variables": [
+        {
+            "variable_name": "Gender",
+            "variable_type": "categorical",
+            "meaning": "The column 'Gender' contains data of type categorical. It represents the Gender of the observation."
+        },
+        {
+            "variable_name": "Age",
+            "variable_type": "numerical",
+            "meaning": "The column 'Age' contains data of type numerical. It represents the Age of the observation."
+        },
+        {
+            "variable_name": "Height",
+            "variable_type": "numerical",
+            "meaning": "The column 'Height' contains data of type numerical. It represents the Height of the observation."
+        },
+        {
+            "variable_name": "Weight",
+            "variable_type": "numerical",
+            "meaning": "The column 'Weight' contains data of type numerical. It represents the Weight of the observation."
+        },
+        {
+            "variable_name": "family_history_with_overweight",
+            "variable_type": "categorical",
+            "meaning": "The column 'family_history_with_overweight' contains data of type categorical. It represents the family_history_with_overweight of the observation."
+        },
+        {
+            "variable_name": "FAVC",
+            "variable_type": "categorical",
+            "meaning": "The column 'FAVC' contains data of type categorical. It represents the FAVC of the observation."
+        },
+        {
+            "variable_name": "FCVC",
+            "variable_type": "numerical",
+            "meaning": "The column 'FCVC' contains data of type numerical. It represents the FCVC of the observation."
+        },
+        {
+            "variable_name": "NCP",
+            "variable_type": "numerical",
+            "meaning": "The column 'NCP' contains data of type numerical. It represents the NCP of the observation."
+        },
+        {
+            "variable_name": "CAEC",
+            "variable_type": "categorical",
+            "meaning": "The column 'CAEC' contains data of type categorical. It represents the CAEC of the observation."
+        },
+        {
+            "variable_name": "SMOKE",
+            "variable_type": "categorical",
+            "meaning": "The column 'SMOKE' contains data of type categorical. It represents the SMOKE of the observation."
+        },
+        {
+            "variable_name": "CH2O",
+            "variable_type": "numerical",
+            "meaning": "The column 'CH2O' contains data of type numerical. It represents the CH2O of the observation."
+        },
+        {
+            "variable_name": "SCC",
+            "variable_type": "categorical",
+            "meaning": "The column 'SCC' contains data of type categorical. It represents the SCC of the observation."
+        },
+        {
+            "variable_name": "FAF",
+            "variable_type": "numerical",
+            "meaning": "The column 'FAF' contains data of type numerical. It represents the FAF of the observation."
+        },
+        {
+            "variable_name": "TUE",
+            "variable_type": "numerical",
+            "meaning": "The column 'TUE' contains data of type numerical. It represents the TUE of the observation."
+        },
+        {
+            "variable_name": "CALC",
+            "variable_type": "categorical",
+            "meaning": "The column 'CALC' contains data of type categorical. It represents the CALC of the observation."
+        },
+        {
+            "variable_name": "MTRANS",
+            "variable_type": "categorical",
+            "meaning": "The column 'MTRANS' contains data of type categorical. It represents the MTRANS of the observation."
+        },
+        {
+            "variable_name": "NObeyesdad",
+            "variable_type": "categorical",
+            "meaning": "The column 'NObeyesdad' contains data of type categorical. It represents the NObeyesdad of the observation."
+        }
+    ]
+}

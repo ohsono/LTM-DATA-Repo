@@ -1,0 +1,45 @@
+{
+    "description": "A historical dataset for predicting passenger survival on the Titanic, widely used in machine learning tutorials and survival analysis.",
+    "variables": [
+        {
+            "variable_name": "Survived",
+            "variable_type": "numerical",
+            "meaning": "The column 'Survived' contains data of type numerical. It represents the Survived of the observation."
+        },
+        {
+            "variable_name": "Pclass",
+            "variable_type": "numerical",
+            "meaning": "The column 'Pclass' contains data of type numerical. It represents the Pclass of the observation."
+        },
+        {
+            "variable_name": "Sex",
+            "variable_type": "categorical",
+            "meaning": "The column 'Sex' contains data of type categorical. It represents the Sex of the observation."
+        },
+        {
+            "variable_name": "Age",
+            "variable_type": "numerical",
+            "meaning": "The column 'Age' contains data of type numerical. It represents the Age of the observation."
+        },
+        {
+            "variable_name": "SibSp",
+            "variable_type": "numerical",
+            "meaning": "The column 'SibSp' contains data of type numerical. It represents the SibSp of the observation."
+        },
+        {
+            "variable_name": "Parch",
+            "variable_type": "numerical",
+            "meaning": "The column 'Parch' contains data of type numerical. It represents the Parch of the observation."
+        },
+        {
+            "variable_name": "Fare",
+            "variable_type": "numerical",
+            "meaning": "The column 'Fare' contains data of type numerical. It represents the Fare of the observation."
+        },
+        {
+            "variable_name": "Embarked",
+            "variable_type": "categorical",
+            "meaning": "The column 'Embarked' contains data of type categorical. It represents the Embarked of the observation."
+        }
+    ]
+}
