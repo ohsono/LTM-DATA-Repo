@@ -1,0 +1,50 @@
+{
+    "description": "A dataset for identifying pulsars (rotating neutron stars) among celestial objects using High Time Resolution Universe survey data, applied in astronomy.",
+    "variables": [
+        {
+            "variable_name": "Var1",
+            "variable_type": "numerical",
+            "meaning": "The column 'Var1' contains data of type numerical. It represents the Var1 of the observation."
+        },
+        {
+            "variable_name": "Var2",
+            "variable_type": "numerical",
+            "meaning": "The column 'Var2' contains data of type numerical. It represents the Var2 of the observation."
+        },
+        {
+            "variable_name": "Var3",
+            "variable_type": "numerical",
+            "meaning": "The column 'Var3' contains data of type numerical. It represents the Var3 of the observation."
+        },
+        {
+            "variable_name": "Var4",
+            "variable_type": "numerical",
+            "meaning": "The column 'Var4' contains data of type numerical. It represents the Var4 of the observation."
+        },
+        {
+            "variable_name": "Var5",
+            "variable_type": "numerical",
+            "meaning": "The column 'Var5' contains data of type numerical. It represents the Var5 of the observation."
+        },
+        {
+            "variable_name": "Var6",
+            "variable_type": "numerical",
+            "meaning": "The column 'Var6' contains data of type numerical. It represents the Var6 of the observation."
+        },
+        {
+            "variable_name": "Var7",
+            "variable_type": "numerical",
+            "meaning": "The column 'Var7' contains data of type numerical. It represents the Var7 of the observation."
+        },
+        {
+            "variable_name": "Var8",
+            "variable_type": "numerical",
+            "meaning": "The column 'Var8' contains data of type numerical. It represents the Var8 of the observation."
+        },
+        {
+            "variable_name": "Class",
+            "variable_type": "categorical",
+            "meaning": "The column 'Class' contains data of type categorical. It represents the Class of the observation."
+        }
+    ]
+}

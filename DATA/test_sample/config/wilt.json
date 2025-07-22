@@ -1,0 +1,35 @@
+{
+    "description": "A dataset for detecting diseased trees in forested areas using remote sensing, important in environmental monitoring.",
+    "variables": [
+        {
+            "variable_name": "GLCM_Pan",
+            "variable_type": "numerical",
+            "meaning": "The column 'GLCM_Pan' contains data of type numerical. It represents the GLCM_Pan of the observation."
+        },
+        {
+            "variable_name": "Mean_G",
+            "variable_type": "numerical",
+            "meaning": "The column 'Mean_G' contains data of type numerical. It represents the Mean_G of the observation."
+        },
+        {
+            "variable_name": "Mean_R",
+            "variable_type": "numerical",
+            "meaning": "The column 'Mean_R' contains data of type numerical. It represents the Mean_R of the observation."
+        },
+        {
+            "variable_name": "Mean_NIR",
+            "variable_type": "numerical",
+            "meaning": "The column 'Mean_NIR' contains data of type numerical. It represents the Mean_NIR of the observation."
+        },
+        {
+            "variable_name": "SD_Plan",
+            "variable_type": "numerical",
+            "meaning": "The column 'SD_Plan' contains data of type numerical. It represents the SD_Plan of the observation."
+        },
+        {
+            "variable_name": "class",
+            "variable_type": "categorical",
+            "meaning": "The column 'class' contains data of type categorical. It represents the class of the observation."
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "description": "A dataset for categorizing online news articles into topics or sentiment, commonly used in natural language processing.",
+    "variables": [
+        {
+            "variable_name": " timedelta",
+            "variable_type": "numerical",
+            "meaning": "The column ' timedelta' contains data of type numerical. It represents the  timedelta of the observation."
+        },
+        {
+            "variable_name": " n_tokens_title",
+            "variable_type": "numerical",
+            "meaning": "The column ' n_tokens_title' contains data of type numerical. It represents the  n_tokens_title of the observation."
+        },
+        {
+            "variable_name": " n_tokens_content",
+            "variable_type": "numerical",
+            "meaning": "The column ' n_tokens_content' contains data of type numerical. It represents the  n_tokens_content of the observation."
+        },
+        {
+            "variable_name": " n_unique_tokens",
+            "variable_type": "numerical",
+            "meaning": "The column ' n_unique_tokens' contains data of type numerical. It represents the  n_unique_tokens of the observation."
+        },
+        {
+            "variable_name": " n_non_stop_words",
+            "variable_type": "numerical",
+            "meaning": "The column ' n_non_stop_words' contains data of type numerical. It represents the  n_non_stop_words of the observation."
+        },
+        {
+            "variable_name": " n_non_stop_unique_tokens",
+            "variable_type": "numerical",
+            "meaning": "The column ' n_non_stop_unique_tokens' contains data of type numerical. It represents the  n_non_stop_unique_tokens of the observation."
+        },
+        {
+            "variable_name": " num_hrefs",
+            "variable_type": "numerical",
+            "meaning": "The column ' num_hrefs' contains data of type numerical. It represents the  num_hrefs of the observation."
+        },
+        {
+            "variable_name": " num_self_hrefs",
+            "variable_type": "numerical",
+            "meaning": "The column ' num_self_hrefs' contains data of type numerical. It represents the  num_self_hrefs of the observation."
+        },
+        {
+            "variable_name": " num_imgs",
+            "variable_type": "numerical",
+            "meaning": "The column ' num_imgs' contains data of type numerical. It represents the  num_imgs of the observation."
+        },
+        {
+            "variable_name": " num_videos",
+            "variable_type": "numerical",
+            "meaning": "The column ' num_videos' contains data of type numerical. It represents the  num_videos of the observation."
+        },
+        {
+            "variable_name": " average_token_length",
+            "variable_type": "numerical",
+            "meaning": "The column ' average_token_length' contains data of type numerical. It represents the  average_token_length of the observation."
+        },
+        {
+            "variable_name": " num_keywords",
+            "variable_type": "numerical",
+            "meaning": "The column ' num_keywords' contains data of type numerical. It represents the  num_keywords of the observation."
+        },
+        {
+            "variable_name": " data_channel_is_lifestyle",
+            "variable_type": "numerical",
+            "meaning": "The column ' data_channel_is_lifestyle' contains data of type numerical. It represents the  data_channel_is_lifestyle of the observation."
+        },
+        {
+            "variable_name": " data_channel_is_entertainment",
+            "variable_type": "numerical",
+            "meaning": "The column ' data_channel_is_entertainment' contains data of type numerical. It represents the  data_channel_is_entertainment of the observation."
+        },
+        {
+            "variable_name": " data_channel_is_bus",
+            "variable_type": "numerical",
+            "meaning": "The column ' data_channel_is_bus' contains data of type numerical. It represents the  data_channel_is_bus of the observation."
+        },
+        {
+            "variable_name": " data_channel_is_socmed",
+            "variable_type": "numerical",
+            "meaning": "The column ' data_channel_is_socmed' contains data of type numerical. It represents the  data_channel_is_socmed of the observation."
+        },
+        {
+            "variable_name": " data_channel_is_tech",
+            "variable_type": "numerical",
+            "meaning": "The column ' data_channel_is_tech' contains data of type numerical. It represents the  data_channel_is_tech of the observation."
+        },
+        {
+            "variable_name": " data_channel_is_world",
+            "variable_type": "numerical",
+            "meaning": "The column ' data_channel_is_world' contains data of type numerical. It represents the  data_channel_is_world of the observation."
+        },
+        {
+            "variable_name": " kw_min_min",
+            "variable_type": "numerical",
+            "meaning": "The column ' kw_min_min' contains data of type numerical. It represents the  kw_min_min of the observation."
+        },
+        {
+            "variable_name": " kw_max_min",
+            "variable_type": "numerical",
+            "meaning": "The column ' kw_max_min' contains data of type numerical. It represents the  kw_max_min of the observation."
+        },
+        {
+            "variable_name": " kw_avg_min",
+            "variable_type": "numerical",
+            "meaning": "The column ' kw_avg_min' contains data of type numerical. It represents the  kw_avg_min of the observation."
+        },
+        {
+            "variable_name": " kw_min_max",
+            "variable_type": "numerical",
+            "meaning": "The column ' kw_min_max' contains data of type numerical. It represents the  kw_min_max of the observation."
+        },
+        {
+            "variable_name": " kw_max_max",
+            "variable_type": "numerical",
+            "meaning": "The column ' kw_max_max' contains data of type numerical. It represents the  kw_max_max of the observation."
+        },
+        {
+            "variable_name": " kw_avg_max",
+            "variable_type": "numerical",
+            "meaning": "The column ' kw_avg_max' contains data of type numerical. It represents the  kw_avg_max of the observation."
+        },
+        {
+            "variable_name": " kw_min_avg",
+            "variable_type": "numerical",
+            "meaning": "The column ' kw_min_avg' contains data of type numerical. It represents the  kw_min_avg of the observation."
+        },
+        {
+            "variable_name": " kw_max_avg",
+            "variable_type": "numerical",
+            "meaning": "The column ' kw_max_avg' contains data of type numerical. It represents the  kw_max_avg of the observation."
+        },
+        {
+            "variable_name": " kw_avg_avg",
+            "variable_type": "numerical",
+            "meaning": "The column ' kw_avg_avg' contains data of type numerical. It represents the  kw_avg_avg of the observation."
+        },
+        {
+            "variable_name": " self_reference_min_shares",
+            "variable_type": "numerical",
+            "meaning": "The column ' self_reference_min_shares' contains data of type numerical. It represents the  self_reference_min_shares of the observation."
+        },
+        {
+            "variable_name": " self_reference_max_shares",
+            "variable_type": "numerical",
+            "meaning": "The column ' self_reference_max_shares' contains data of type numerical. It represents the  self_reference_max_shares of the observation."
+        },
+        {
+            "variable_name": " self_reference_avg_sharess",
+            "variable_type": "numerical",
+            "meaning": "The column ' self_reference_avg_sharess' contains data of type numerical. It represents the  self_reference_avg_sharess of the observation."
+        },
+        {
+            "variable_name": " weekday_is_monday",
+            "variable_type": "numerical",
+            "meaning": "The column ' weekday_is_monday' contains data of type numerical. It represents the  weekday_is_monday of the observation."
+        },
+        {
+            "variable_name": " weekday_is_tuesday",
+            "variable_type": "numerical",
+            "meaning": "The column ' weekday_is_tuesday' contains data of type numerical. It represents the  weekday_is_tuesday of the observation."
+        },
+        {
+            "variable_name": " weekday_is_wednesday",
+            "variable_type": "numerical",
+            "meaning": "The column ' weekday_is_wednesday' contains data of type numerical. It represents the  weekday_is_wednesday of the observation."
+        },
+        {
+            "variable_name": " weekday_is_thursday",
+            "variable_type": "numerical",
+            "meaning": "The column ' weekday_is_thursday' contains data of type numerical. It represents the  weekday_is_thursday of the observation."
+        },
+        {
+            "variable_name": " weekday_is_friday",
+            "variable_type": "numerical",
+            "meaning": "The column ' weekday_is_friday' contains data of type numerical. It represents the  weekday_is_friday of the observation."
+        },
+        {
+            "variable_name": " weekday_is_saturday",
+            "variable_type": "numerical",
+            "meaning": "The column ' weekday_is_saturday' contains data of type numerical. It represents the  weekday_is_saturday of the observation."
+        },
+        {
+            "variable_name": " weekday_is_sunday",
+            "variable_type": "numerical",
+            "meaning": "The column ' weekday_is_sunday' contains data of type numerical. It represents the  weekday_is_sunday of the observation."
+        },
+        {
+            "variable_name": " is_weekend",
+            "variable_type": "numerical",
+            "meaning": "The column ' is_weekend' contains data of type numerical. It represents the  is_weekend of the observation."
+        },
+        {
+            "variable_name": " LDA_00",
+            "variable_type": "numerical",
+            "meaning": "The column ' LDA_00' contains data of type numerical. It represents the  LDA_00 of the observation."
+        },
+        {
+            "variable_name": " LDA_01",
+            "variable_type": "numerical",
+            "meaning": "The column ' LDA_01' contains data of type numerical. It represents the  LDA_01 of the observation."
+        },
+        {
+            "variable_name": " LDA_02",
+            "variable_type": "numerical",
+            "meaning": "The column ' LDA_02' contains data of type numerical. It represents the  LDA_02 of the observation."
+        },
+        {
+            "variable_name": " LDA_03",
+            "variable_type": "numerical",
+            "meaning": "The column ' LDA_03' contains data of type numerical. It represents the  LDA_03 of the observation."
+        },
+        {
+            "variable_name": " LDA_04",
+            "variable_type": "numerical",
+            "meaning": "The column ' LDA_04' contains data of type numerical. It represents the  LDA_04 of the observation."
+        },
+        {
+            "variable_name": " global_subjectivity",
+            "variable_type": "numerical",
+            "meaning": "The column ' global_subjectivity' contains data of type numerical. It represents the  global_subjectivity of the observation."
+        },
+        {
+            "variable_name": " global_sentiment_polarity",
+            "variable_type": "numerical",
+            "meaning": "The column ' global_sentiment_polarity' contains data of type numerical. It represents the  global_sentiment_polarity of the observation."
+        },
+        {
+            "variable_name": " global_rate_positive_words",
+            "variable_type": "numerical",
+            "meaning": "The column ' global_rate_positive_words' contains data of type numerical. It represents the  global_rate_positive_words of the observation."
+        },
+        {
+            "variable_name": " global_rate_negative_words",
+            "variable_type": "numerical",
+            "meaning": "The column ' global_rate_negative_words' contains data of type numerical. It represents the  global_rate_negative_words of the observation."
+        },
+        {
+            "variable_name": " rate_positive_words",
+            "variable_type": "numerical",
+            "meaning": "The column ' rate_positive_words' contains data of type numerical. It represents the  rate_positive_words of the observation."
+        },
+        {
+            "variable_name": " rate_negative_words",
+            "variable_type": "numerical",
+            "meaning": "The column ' rate_negative_words' contains data of type numerical. It represents the  rate_negative_words of the observation."
+        },
+        {
+            "variable_name": " avg_positive_polarity",
+            "variable_type": "numerical",
+            "meaning": "The column ' avg_positive_polarity' contains data of type numerical. It represents the  avg_positive_polarity of the observation."
+        },
+        {
+            "variable_name": " min_positive_polarity",
+            "variable_type": "numerical",
+            "meaning": "The column ' min_positive_polarity' contains data of type numerical. It represents the  min_positive_polarity of the observation."
+        },
+        {
+            "variable_name": " max_positive_polarity",
+            "variable_type": "numerical",
+            "meaning": "The column ' max_positive_polarity' contains data of type numerical. It represents the  max_positive_polarity of the observation."
+        },
+        {
+            "variable_name": " avg_negative_polarity",
+            "variable_type": "numerical",
+            "meaning": "The column ' avg_negative_polarity' contains data of type numerical. It represents the  avg_negative_polarity of the observation."
+        },
+        {
+            "variable_name": " min_negative_polarity",
+            "variable_type": "numerical",
+            "meaning": "The column ' min_negative_polarity' contains data of type numerical. It represents the  min_negative_polarity of the observation."
+        },
+        {
+            "variable_name": " max_negative_polarity",
+            "variable_type": "numerical",
+            "meaning": "The column ' max_negative_polarity' contains data of type numerical. It represents the  max_negative_polarity of the observation."
+        },
+        {
+            "variable_name": " title_subjectivity",
+            "variable_type": "numerical",
+            "meaning": "The column ' title_subjectivity' contains data of type numerical. It represents the  title_subjectivity of the observation."
+        },
+        {
+            "variable_name": " title_sentiment_polarity",
+            "variable_type": "numerical",
+            "meaning": "The column ' title_sentiment_polarity' contains data of type numerical. It represents the  title_sentiment_polarity of the observation."
+        },
+        {
+            "variable_name": " abs_title_subjectivity",
+            "variable_type": "numerical",
+            "meaning": "The column ' abs_title_subjectivity' contains data of type numerical. It represents the  abs_title_subjectivity of the observation."
+        },
+        {
+            "variable_name": " abs_title_sentiment_polarity",
+            "variable_type": "numerical",
+            "meaning": "The column ' abs_title_sentiment_polarity' contains data of type numerical. It represents the  abs_title_sentiment_polarity of the observation."
+        },
+        {
+            "variable_name": " shares",
+            "variable_type": "numerical",
+            "meaning": "The column ' shares' contains data of type numerical. It represents the  shares of the observation."
+        }
+    ]
+}

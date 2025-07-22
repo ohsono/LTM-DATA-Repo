@@ -1,0 +1,50 @@
+{
+    "description": "A dataset to predict the age of abalone shells based on physical measurements, often used in ecological studies.",
+    "variables": [
+        {
+            "variable_name": "Sex",
+            "variable_type": "categorical",
+            "meaning": "The column 'Sex' contains data of type categorical. It represents the Sex of the observation."
+        },
+        {
+            "variable_name": "Length",
+            "variable_type": "numerical",
+            "meaning": "The column 'Length' contains data of type numerical. It represents the Length of the observation."
+        },
+        {
+            "variable_name": "Diameter",
+            "variable_type": "numerical",
+            "meaning": "The column 'Diameter' contains data of type numerical. It represents the Diameter of the observation."
+        },
+        {
+            "variable_name": "Height",
+            "variable_type": "numerical",
+            "meaning": "The column 'Height' contains data of type numerical. It represents the Height of the observation."
+        },
+        {
+            "variable_name": "Whole weight",
+            "variable_type": "numerical",
+            "meaning": "The column 'Whole weight' contains data of type numerical. It represents the Whole weight of the observation."
+        },
+        {
+            "variable_name": "Shucked weight",
+            "variable_type": "numerical",
+            "meaning": "The column 'Shucked weight' contains data of type numerical. It represents the Shucked weight of the observation."
+        },
+        {
+            "variable_name": "Viscera weight",
+            "variable_type": "numerical",
+            "meaning": "The column 'Viscera weight' contains data of type numerical. It represents the Viscera weight of the observation."
+        },
+        {
+            "variable_name": "Shell weight",
+            "variable_type": "numerical",
+            "meaning": "The column 'Shell weight' contains data of type numerical. It represents the Shell weight of the observation."
+        },
+        {
+            "variable_name": "Rings",
+            "variable_type": "numerical",
+            "meaning": "The column 'Rings' contains data of type numerical. It represents the Rings of the observation."
+        }
+    ]
+}

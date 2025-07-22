@@ -1,0 +1,90 @@
+{
+    "description": "A dataset focused on the classification of different types of dry beans based on shape and texture features, used in agricultural studies.",
+    "variables": [
+        {
+            "variable_name": "Area",
+            "variable_type": "numerical",
+            "meaning": "The column 'Area' contains data of type numerical. It represents the Area of the observation."
+        },
+        {
+            "variable_name": "Perimeter",
+            "variable_type": "numerical",
+            "meaning": "The column 'Perimeter' contains data of type numerical. It represents the Perimeter of the observation."
+        },
+        {
+            "variable_name": "MajorAxisLength",
+            "variable_type": "numerical",
+            "meaning": "The column 'MajorAxisLength' contains data of type numerical. It represents the MajorAxisLength of the observation."
+        },
+        {
+            "variable_name": "MinorAxisLength",
+            "variable_type": "numerical",
+            "meaning": "The column 'MinorAxisLength' contains data of type numerical. It represents the MinorAxisLength of the observation."
+        },
+        {
+            "variable_name": "AspectRation",
+            "variable_type": "numerical",
+            "meaning": "The column 'AspectRation' contains data of type numerical. It represents the AspectRation of the observation."
+        },
+        {
+            "variable_name": "Eccentricity",
+            "variable_type": "numerical",
+            "meaning": "The column 'Eccentricity' contains data of type numerical. It represents the Eccentricity of the observation."
+        },
+        {
+            "variable_name": "ConvexArea",
+            "variable_type": "numerical",
+            "meaning": "The column 'ConvexArea' contains data of type numerical. It represents the ConvexArea of the observation."
+        },
+        {
+            "variable_name": "EquivDiameter",
+            "variable_type": "numerical",
+            "meaning": "The column 'EquivDiameter' contains data of type numerical. It represents the EquivDiameter of the observation."
+        },
+        {
+            "variable_name": "Extent",
+            "variable_type": "numerical",
+            "meaning": "The column 'Extent' contains data of type numerical. It represents the Extent of the observation."
+        },
+        {
+            "variable_name": "Solidity",
+            "variable_type": "numerical",
+            "meaning": "The column 'Solidity' contains data of type numerical. It represents the Solidity of the observation."
+        },
+        {
+            "variable_name": "roundness",
+            "variable_type": "numerical",
+            "meaning": "The column 'roundness' contains data of type numerical. It represents the roundness of the observation."
+        },
+        {
+            "variable_name": "Compactness",
+            "variable_type": "numerical",
+            "meaning": "The column 'Compactness' contains data of type numerical. It represents the Compactness of the observation."
+        },
+        {
+            "variable_name": "ShapeFactor1",
+            "variable_type": "numerical",
+            "meaning": "The column 'ShapeFactor1' contains data of type numerical. It represents the ShapeFactor1 of the observation."
+        },
+        {
+            "variable_name": "ShapeFactor2",
+            "variable_type": "numerical",
+            "meaning": "The column 'ShapeFactor2' contains data of type numerical. It represents the ShapeFactor2 of the observation."
+        },
+        {
+            "variable_name": "ShapeFactor3",
+            "variable_type": "numerical",
+            "meaning": "The column 'ShapeFactor3' contains data of type numerical. It represents the ShapeFactor3 of the observation."
+        },
+        {
+            "variable_name": "ShapeFactor4",
+            "variable_type": "numerical",
+            "meaning": "The column 'ShapeFactor4' contains data of type numerical. It represents the ShapeFactor4 of the observation."
+        },
+        {
+            "variable_name": "Class",
+            "variable_type": "categorical",
+            "meaning": "The column 'Class' contains data of type categorical. It represents the Class of the observation."
+        }
+    ]
+}

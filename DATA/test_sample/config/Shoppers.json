@@ -1,0 +1,95 @@
+{
+    "description": "A dataset for predicting whether a user will make a purchase based on e-commerce website behavior, useful in retail and marketing.",
+    "variables": [
+        {
+            "variable_name": "Administrative",
+            "variable_type": "numerical",
+            "meaning": "The column 'Administrative' contains data of type numerical. It represents the Administrative of the observation."
+        },
+        {
+            "variable_name": "Administrative_Duration",
+            "variable_type": "numerical",
+            "meaning": "The column 'Administrative_Duration' contains data of type numerical. It represents the Administrative_Duration of the observation."
+        },
+        {
+            "variable_name": "Informational",
+            "variable_type": "numerical",
+            "meaning": "The column 'Informational' contains data of type numerical. It represents the Informational of the observation."
+        },
+        {
+            "variable_name": "Informational_Duration",
+            "variable_type": "numerical",
+            "meaning": "The column 'Informational_Duration' contains data of type numerical. It represents the Informational_Duration of the observation."
+        },
+        {
+            "variable_name": "ProductRelated",
+            "variable_type": "numerical",
+            "meaning": "The column 'ProductRelated' contains data of type numerical. It represents the ProductRelated of the observation."
+        },
+        {
+            "variable_name": "ProductRelated_Duration",
+            "variable_type": "numerical",
+            "meaning": "The column 'ProductRelated_Duration' contains data of type numerical. It represents the ProductRelated_Duration of the observation."
+        },
+        {
+            "variable_name": "BounceRates",
+            "variable_type": "numerical",
+            "meaning": "The column 'BounceRates' contains data of type numerical. It represents the BounceRates of the observation."
+        },
+        {
+            "variable_name": "ExitRates",
+            "variable_type": "numerical",
+            "meaning": "The column 'ExitRates' contains data of type numerical. It represents the ExitRates of the observation."
+        },
+        {
+            "variable_name": "PageValues",
+            "variable_type": "numerical",
+            "meaning": "The column 'PageValues' contains data of type numerical. It represents the PageValues of the observation."
+        },
+        {
+            "variable_name": "SpecialDay",
+            "variable_type": "numerical",
+            "meaning": "The column 'SpecialDay' contains data of type numerical. It represents the SpecialDay of the observation."
+        },
+        {
+            "variable_name": "Month",
+            "variable_type": "categorical",
+            "meaning": "The column 'Month' contains data of type categorical. It represents the Month of the observation."
+        },
+        {
+            "variable_name": "OperatingSystems",
+            "variable_type": "numerical",
+            "meaning": "The column 'OperatingSystems' contains data of type numerical. It represents the OperatingSystems of the observation."
+        },
+        {
+            "variable_name": "Browser",
+            "variable_type": "numerical",
+            "meaning": "The column 'Browser' contains data of type numerical. It represents the Browser of the observation."
+        },
+        {
+            "variable_name": "Region",
+            "variable_type": "numerical",
+            "meaning": "The column 'Region' contains data of type numerical. It represents the Region of the observation."
+        },
+        {
+            "variable_name": "TrafficType",
+            "variable_type": "numerical",
+            "meaning": "The column 'TrafficType' contains data of type numerical. It represents the TrafficType of the observation."
+        },
+        {
+            "variable_name": "VisitorType",
+            "variable_type": "categorical",
+            "meaning": "The column 'VisitorType' contains data of type categorical. It represents the VisitorType of the observation."
+        },
+        {
+            "variable_name": "Weekend",
+            "variable_type": "numerical",
+            "meaning": "The column 'Weekend' contains data of type numerical. It represents the Weekend of the observation."
+        },
+        {
+            "variable_name": "Revenue",
+            "variable_type": "numerical",
+            "meaning": "The column 'Revenue' contains data of type numerical. It represents the Revenue of the observation."
+        }
+    ]
+}

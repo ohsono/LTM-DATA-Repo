@@ -1,0 +1,175 @@
+{
+    "description": "A dataset for identifying manufacturing faults in steel plates using visual and physical features, relevant in industrial quality control.",
+    "variables": [
+        {
+            "variable_name": "X_Minimum",
+            "variable_type": "numerical",
+            "meaning": "The column 'X_Minimum' contains data of type numerical. It represents the X_Minimum of the observation."
+        },
+        {
+            "variable_name": "X_Maximum",
+            "variable_type": "numerical",
+            "meaning": "The column 'X_Maximum' contains data of type numerical. It represents the X_Maximum of the observation."
+        },
+        {
+            "variable_name": "Y_Minimum",
+            "variable_type": "numerical",
+            "meaning": "The column 'Y_Minimum' contains data of type numerical. It represents the Y_Minimum of the observation."
+        },
+        {
+            "variable_name": "Y_Maximum",
+            "variable_type": "numerical",
+            "meaning": "The column 'Y_Maximum' contains data of type numerical. It represents the Y_Maximum of the observation."
+        },
+        {
+            "variable_name": "Pixels_Areas",
+            "variable_type": "numerical",
+            "meaning": "The column 'Pixels_Areas' contains data of type numerical. It represents the Pixels_Areas of the observation."
+        },
+        {
+            "variable_name": "X_Perimeter",
+            "variable_type": "numerical",
+            "meaning": "The column 'X_Perimeter' contains data of type numerical. It represents the X_Perimeter of the observation."
+        },
+        {
+            "variable_name": "Y_Perimeter",
+            "variable_type": "numerical",
+            "meaning": "The column 'Y_Perimeter' contains data of type numerical. It represents the Y_Perimeter of the observation."
+        },
+        {
+            "variable_name": "Sum_of_Luminosity",
+            "variable_type": "numerical",
+            "meaning": "The column 'Sum_of_Luminosity' contains data of type numerical. It represents the Sum_of_Luminosity of the observation."
+        },
+        {
+            "variable_name": "Minimum_of_Luminosity",
+            "variable_type": "numerical",
+            "meaning": "The column 'Minimum_of_Luminosity' contains data of type numerical. It represents the Minimum_of_Luminosity of the observation."
+        },
+        {
+            "variable_name": "Maximum_of_Luminosity",
+            "variable_type": "numerical",
+            "meaning": "The column 'Maximum_of_Luminosity' contains data of type numerical. It represents the Maximum_of_Luminosity of the observation."
+        },
+        {
+            "variable_name": "Length_of_Conveyer",
+            "variable_type": "numerical",
+            "meaning": "The column 'Length_of_Conveyer' contains data of type numerical. It represents the Length_of_Conveyer of the observation."
+        },
+        {
+            "variable_name": "TypeOfSteel_A300",
+            "variable_type": "numerical",
+            "meaning": "The column 'TypeOfSteel_A300' contains data of type numerical. It represents the TypeOfSteel_A300 of the observation."
+        },
+        {
+            "variable_name": "TypeOfSteel_A400",
+            "variable_type": "numerical",
+            "meaning": "The column 'TypeOfSteel_A400' contains data of type numerical. It represents the TypeOfSteel_A400 of the observation."
+        },
+        {
+            "variable_name": "Steel_Plate_Thickness",
+            "variable_type": "numerical",
+            "meaning": "The column 'Steel_Plate_Thickness' contains data of type numerical. It represents the Steel_Plate_Thickness of the observation."
+        },
+        {
+            "variable_name": "Edges_Index",
+            "variable_type": "numerical",
+            "meaning": "The column 'Edges_Index' contains data of type numerical. It represents the Edges_Index of the observation."
+        },
+        {
+            "variable_name": "Empty_Index",
+            "variable_type": "numerical",
+            "meaning": "The column 'Empty_Index' contains data of type numerical. It represents the Empty_Index of the observation."
+        },
+        {
+            "variable_name": "Square_Index",
+            "variable_type": "numerical",
+            "meaning": "The column 'Square_Index' contains data of type numerical. It represents the Square_Index of the observation."
+        },
+        {
+            "variable_name": "Outside_X_Index",
+            "variable_type": "numerical",
+            "meaning": "The column 'Outside_X_Index' contains data of type numerical. It represents the Outside_X_Index of the observation."
+        },
+        {
+            "variable_name": "Edges_X_Index",
+            "variable_type": "numerical",
+            "meaning": "The column 'Edges_X_Index' contains data of type numerical. It represents the Edges_X_Index of the observation."
+        },
+        {
+            "variable_name": "Edges_Y_Index",
+            "variable_type": "numerical",
+            "meaning": "The column 'Edges_Y_Index' contains data of type numerical. It represents the Edges_Y_Index of the observation."
+        },
+        {
+            "variable_name": "Outside_Global_Index",
+            "variable_type": "numerical",
+            "meaning": "The column 'Outside_Global_Index' contains data of type numerical. It represents the Outside_Global_Index of the observation."
+        },
+        {
+            "variable_name": "LogOfAreas",
+            "variable_type": "numerical",
+            "meaning": "The column 'LogOfAreas' contains data of type numerical. It represents the LogOfAreas of the observation."
+        },
+        {
+            "variable_name": "Log_X_Index",
+            "variable_type": "numerical",
+            "meaning": "The column 'Log_X_Index' contains data of type numerical. It represents the Log_X_Index of the observation."
+        },
+        {
+            "variable_name": "Log_Y_Index",
+            "variable_type": "numerical",
+            "meaning": "The column 'Log_Y_Index' contains data of type numerical. It represents the Log_Y_Index of the observation."
+        },
+        {
+            "variable_name": "Orientation_Index",
+            "variable_type": "numerical",
+            "meaning": "The column 'Orientation_Index' contains data of type numerical. It represents the Orientation_Index of the observation."
+        },
+        {
+            "variable_name": "Luminosity_Index",
+            "variable_type": "numerical",
+            "meaning": "The column 'Luminosity_Index' contains data of type numerical. It represents the Luminosity_Index of the observation."
+        },
+        {
+            "variable_name": "SigmoidOfAreas",
+            "variable_type": "numerical",
+            "meaning": "The column 'SigmoidOfAreas' contains data of type numerical. It represents the SigmoidOfAreas of the observation."
+        },
+        {
+            "variable_name": "Pastry",
+            "variable_type": "numerical",
+            "meaning": "The column 'Pastry' contains data of type numerical. It represents the Pastry of the observation."
+        },
+        {
+            "variable_name": "Z_Scratch",
+            "variable_type": "numerical",
+            "meaning": "The column 'Z_Scratch' contains data of type numerical. It represents the Z_Scratch of the observation."
+        },
+        {
+            "variable_name": "K_Scatch",
+            "variable_type": "numerical",
+            "meaning": "The column 'K_Scatch' contains data of type numerical. It represents the K_Scatch of the observation."
+        },
+        {
+            "variable_name": "Stains",
+            "variable_type": "numerical",
+            "meaning": "The column 'Stains' contains data of type numerical. It represents the Stains of the observation."
+        },
+        {
+            "variable_name": "Dirtiness",
+            "variable_type": "numerical",
+            "meaning": "The column 'Dirtiness' contains data of type numerical. It represents the Dirtiness of the observation."
+        },
+        {
+            "variable_name": "Bumps",
+            "variable_type": "numerical",
+            "meaning": "The column 'Bumps' contains data of type numerical. It represents the Bumps of the observation."
+        },
+        {
+            "variable_name": "Other_Faults",
+            "variable_type": "numerical",
+            "meaning": "The column 'Other_Faults' contains data of type numerical. It represents the Other_Faults of the observation."
+        }
+    ]
+}
